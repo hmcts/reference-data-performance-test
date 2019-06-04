@@ -1,0 +1,10 @@
+{
+  "simulation": "uk.gov.hmcts.jui.sscs.simulations.JUI_SSCSCaseJourney",
+  "simulationId": "jui-sscscasejourney",
+  "start": 1557913512231,
+  "description": "",
+  "scenarios": ["SCN_JUI_SSCSJourney"],
+  "assertions": [
+
+  ]
+}
